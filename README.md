@@ -1,10 +1,10 @@
 ## calculator
-![image](https://github.com/edumachuca/calculator/assets/115632127/1bda1946-8654-4d4c-806c-ecbf19a17588)
 
+![image](https://github.com/edumachuca/calculator/assets/115632127/1bda1946-8654-4d4c-806c-ecbf19a17588)
 
 ## What is the use of this Repo
 
-This project is a simple calculator that handles input changes, user interaction, and complex calculations. 
+This project is a simple calculator that handles input changes, user interaction, and complex calculations.
 This project demonstrate the following:
 
 1. Chained calculations, thanks to a previous operand and a current operand.
@@ -12,10 +12,9 @@ This project demonstrate the following:
 3. "AC" button, capable of "Reset" the calculator.
 4. Number formating, adding commas where neccesary.
 
-
 ## Dependencies
 
-- npm 
+- npm
 
 ## Installation and Setup
 
