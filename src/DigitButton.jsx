@@ -1,14 +1,16 @@
-import { ACTIONS } from "./App"
+import { ACTIONS } from './App';
 import PropTypes from 'prop-types';
 
 export default function DigitButton({ dispatch, digit }) {
-    return (
-        <button onClick={() => dispatch({ type: ACTIONS.ADD_DIGIT, payload: { digit } })}
-        >{digit}
-        </button>
-    )
+	return (
+		<button
+			onClick={() => dispatch({ type: ACTIONS.ADD_DIGIT, payload: { digit } })}
+		>
+			{digit}
+		</button>
+	);
 }
 DigitButton.propTypes = {
-    dispatch: PropTypes.array,
-    digit: PropTypes.array,
+	dispatch: PropTypes.array,
+	digit: PropTypes.array,
 };
