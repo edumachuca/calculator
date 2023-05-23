@@ -7,7 +7,7 @@
 This project is a simple calculator that handles input changes, user interaction, and complex calculations.
 This project demonstrate the following:
 
-1. Chained calculations, thanks to a previous operand and a current operand.
+1. Chained calculations, thanks to a "previous operand" and a "current operand".
 2. "DEL" button, capable of delete only the last digit.
 3. "AC" button, capable of "Reset" the calculator.
 4. Number formating, adding commas where neccesary.
