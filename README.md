@@ -5,6 +5,7 @@
 ## What is the use of this Repo
 
 This project is a simple calculator that handles input changes and user interaction.
+
 This project demonstrate the following:
 
 1. Chained calculations, thanks to a "previous operand" and a "current operand".
